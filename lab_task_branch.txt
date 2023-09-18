@@ -1,1 +1,2 @@
-I am working fast forward merge
+I am working fast forward merge.
+Now, working on three way merge.
